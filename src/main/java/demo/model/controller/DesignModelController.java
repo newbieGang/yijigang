@@ -17,5 +17,6 @@ public class DesignModelController {
     public String getModel(String type){
         factoryService.getCondition();
         return null;
+
     }
 }
