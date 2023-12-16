@@ -3,7 +3,7 @@ package thread.config;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import thread.ThreadPoolTest;
+import thread.test.ThreadPoolTest;
 
 @Configuration
 public class UrlUtil {
